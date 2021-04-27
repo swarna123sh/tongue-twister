@@ -1,4 +1,3 @@
-print("***** Task 2: *******")
 import random
 import matplotlib.pyplot as plt
 # Consonant list
